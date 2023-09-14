@@ -7,6 +7,7 @@ body {
 .header-bg {
     background-image: url(../images/Header_BG.svg);
     background-size: cover;
+    background-position: center;
 }
 
 .text-gray-color{
