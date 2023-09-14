@@ -21,6 +21,10 @@ body {
     color: #A6A6A6;
 }
 
+.navbar-nav .nav-link:hover{
+    color: #000;
+}
+
 .hero-section-heading::after {
     content: url(../images/headerSection.svg);
     display: block;
