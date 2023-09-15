@@ -236,6 +236,27 @@ body {
         width: 100%;
     }
 
+    .text-center-md{
+        text-align: center;
+    }
+
+    .hero-section-heading::after{
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .mx-auto-md{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .justify-content-center-md{
+        justify-content: center;
+    }
+
+    .flex-wrap-md{
+        flex-wrap: wrap;
+    }
 }
 
 @media (max-width: 576px) {
